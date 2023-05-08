@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    color: #0f0f0f;
+    background-color: #F9FCFC;
+    border: #335F5C 10px solid;
+    border-top: #263E3C 30px solid;
+    border-bottom: #263E3C 30px solid;
+    margin: 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+}
+h1 {
+    color: #335F5C;
+    margin-top: 5%;
+}
+h2 {
+    color: #283D3B;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+video {
+    margin-bottom: 10%;
+}
+.gato {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.sexo {
+    margin-bottom: 5%;
+}
+.links {
+    color: #263E3C;
+    font-size: smaller;
+}
