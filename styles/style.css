@@ -35,3 +35,16 @@ video {
     color: #263E3C;
     font-size: smaller;
 }
+.menu {
+    background-color: #335F5C;
+    color: #F9FCFC;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.redes {
+    margin: 100;
+    color: #335F5C;
+}
