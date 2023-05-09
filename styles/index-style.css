@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    color: #0f0f0f;
+    background-color: #F9FCFC;
+    border: #335F5C 10px solid;
+    border-top: #263E3C 30px solid;
+    border-bottom: #263E3C 30px solid;
+    margin: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    font-family: Roboto;
+}
+h1 {
+    color: #335F5C;
+    margin-top: 5%;
+    font-family: Roboto Condensed;
+}
+h2 {
+    color: #283D3B;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+video {
+    margin-bottom: 10%;
+}
+.links {
+    color: #263E3C;
+    font-size: smaller;
+}
+.menu {
+    background-color: #335F5C;
+    color: #F9FCFC;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
